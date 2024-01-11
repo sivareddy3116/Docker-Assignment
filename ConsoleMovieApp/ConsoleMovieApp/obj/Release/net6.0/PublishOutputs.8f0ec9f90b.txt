@@ -1,0 +1,5 @@
+E:\pahse 3 assignments\day 5\ConsoleMovieApp\ConsoleMovieApp\bin\Release\net6.0\publish\ConsoleMovieApp.exe
+E:\pahse 3 assignments\day 5\ConsoleMovieApp\ConsoleMovieApp\bin\Release\net6.0\publish\ConsoleMovieApp.dll
+E:\pahse 3 assignments\day 5\ConsoleMovieApp\ConsoleMovieApp\bin\Release\net6.0\publish\ConsoleMovieApp.deps.json
+E:\pahse 3 assignments\day 5\ConsoleMovieApp\ConsoleMovieApp\bin\Release\net6.0\publish\ConsoleMovieApp.runtimeconfig.json
+E:\pahse 3 assignments\day 5\ConsoleMovieApp\ConsoleMovieApp\bin\Release\net6.0\publish\ConsoleMovieApp.pdb

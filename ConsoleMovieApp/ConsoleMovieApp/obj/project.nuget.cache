@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "khRNffEbLdoJm2C/7phVQnd85Hue0iCZ9JJ55eJBUblZl6nXgfL2kb8YRdjFMQN2iAYhOoYhtz3Ww8zUS5tOng==",
+  "success": true,
+  "projectFilePath": "E:\\pahse 3 assignments\\day 5\\ConsoleMovieApp\\ConsoleMovieApp\\ConsoleMovieApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
